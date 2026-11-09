@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 112" role="img" aria-labelledby="title">
+  <title id="title">KLIKSTUDIO</title>
+  <g fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="88" font-size="94" font-weight="800" letter-spacing="-4">KLIK</text>
+    <text x="244" y="88" font-size="94" font-weight="400" letter-spacing="-3">STUDI</text>
+    <circle cx="560" cy="56" r="41" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  </g>
+  <path fill="#D9C9B2" d="M560 18c4 23 14 34 37 38-23 4-33 14-37 37-4-23-14-33-37-37 23-4 33-15 37-38Z"/>
+</svg>

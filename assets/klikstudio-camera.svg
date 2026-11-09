@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" role="img" aria-labelledby="title">
+  <title id="title">KlikStudio camera</title>
+  <path fill="#D9C9B2" d="M355 4c5 37 21 53 58 59-37 5-53 21-58 58-5-37-21-53-58-58 37-6 53-22 58-59Z"/>
+  <path fill="#171717" d="M66 72h71l21-34c5-8 13-13 23-13h78c10 0 18 5 23 13l21 34h18c22 0 40 18 40 40v126c0 22-18 40-40 40H66c-22 0-40-18-40-40V112c0-22 18-40 40-40Zm8-27h39c7 0 12 5 12 12v7H62v-7c0-7 5-12 12-12Z"/>
+  <circle cx="213" cy="173" r="91" fill="none" stroke="#F8F6F2" stroke-width="13"/>
+  <circle cx="213" cy="173" r="66" fill="none" stroke="#D9C9B2" stroke-width="13"/>
+  <circle cx="178" cy="139" r="16" fill="#F8F6F2"/>
+  <path d="M238 207c15-6 26-18 31-34" fill="none" stroke="#F8F6F2" stroke-linecap="round" stroke-width="5"/>
+  <path d="m271 183 29 3 76 66-24 16 10 47-18 10-29-40-19 24-31-104c-3-11 1-20 6-22Z" fill="#171717" stroke="#F8F6F2" stroke-linejoin="round" stroke-width="8"/>
+  <path d="m334 157 26-31m-9 48 44-13m-42-4 10-8" fill="none" stroke="#B9A58D" stroke-linecap="round" stroke-width="10"/>
+</svg>
